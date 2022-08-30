@@ -3,4 +3,5 @@ seaborn
 matplotlib
 pandas
 numpy
+tqdm
 gunicorn
