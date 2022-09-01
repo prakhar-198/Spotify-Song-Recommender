@@ -38,7 +38,7 @@ Dataset used:--https://www.kaggle.com/datasets/absin7/zomato-bangalore-dataset
 
 ## Data Preprocessing
 Data Preprocessing is done using python on jupyter notebook.  
-ipynb file:-
+ipynb file:- https://github.com/prakhar-198/notebook-Spotify-Song-Recommender
 
 ## Deployment
 
