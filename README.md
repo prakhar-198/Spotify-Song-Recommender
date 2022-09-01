@@ -43,4 +43,4 @@ ipynb file:- https://github.com/prakhar-198/notebook-Spotify-Song-Recommender
 ## Deployment
 
 Web Development & Deployment: HTML,CSS and Python flask framework has been used for web development and the site is hosted in Heroku as well.
-Visit the app:--https://zomato-bangalore-analysis.herokuapp.com/
+Visit the app:--https://spotify-song-recommender-app.herokuapp.com/
