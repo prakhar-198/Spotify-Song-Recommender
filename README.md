@@ -31,7 +31,7 @@ A flask app  which recommends songs similar to the one provided by the user.(Con
 [![Generic badge](https://img.shields.io/badge/deployed_in-heroku-7f03fc.svg)](https://en.wikipedia.org/wiki/Heroku)
 
 ## Datasource
-Dataset used:--https://www.kaggle.com/datasets/absin7/zomato-bangalore-dataset
+Dataset used:--https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db
 
 
 
